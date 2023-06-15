@@ -1,8 +1,7 @@
 # 编译执行
 ```
-git clone https://github.com/sylar-yin/chat_room.git
-cd chat_room
-git submodule update --init --recursive
+git clone https://github.com/forlqy/sylar_chat_room.git
+cd sylar_chat_room
 make
 make -j
 sh move.sh
