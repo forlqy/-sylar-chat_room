@@ -1,0 +1,12 @@
+/home/ubuntu/chat_room/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/chat_room/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/chat_room/build/CMakeFiles/chat_room.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/edit_cache.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/bin_sylar.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/test_email.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/test_sqlite3.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/test_rock.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/test_crypto.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/test_module.dir
+/home/ubuntu/chat_room/build/sylar/CMakeFiles/sylar.dir
